@@ -11,10 +11,11 @@ These databases power various online features and services, such as **Shop**, an
 ---
 
 ## 📁 About the Database Files
-- All `.db` files are actually Zip archives
-- You’re welcome to view the files, but this repo is **Not open for contributions**.  
-  They exist solely so Metro OS can download them reliably.
-- The `.sf` files are WAV files and the `.as` files are SVG assets
+- The `.db` files are Zip archives (A couple of them aren't and they are just text files)
+- The `.sf` files are WAV files
+- The `.as` files are SVG assets
+- The `.cer` files are TXT files
+- You’re welcome to view the files, but this repo is **Not open for contributions**. (This solely exists so Metro OS can download them reliably.)
 
 ---
 
